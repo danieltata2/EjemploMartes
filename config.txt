@@ -1,1 +1,2 @@
 esto es un archivo de configuracion
+una nueva config
